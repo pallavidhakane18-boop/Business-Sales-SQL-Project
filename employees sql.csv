@@ -1,0 +1,21 @@
+employee_id,name,department,region,joining_date,target,manager
+101,Priya Sharma,Sales,West,10-05-2024,85658,Aditi Nair
+102,Aman Patel,Sales,South,31-12-2024,144478,Raj Mehta
+103,Neha Rao,Sales,South,10-11-2024,78431,Sunil Rao
+104,Rohit Singh,Sales,North,02-05-2022,62747,Aditi Nair
+105,Sana Kapoor,Sales,South,12-04-2023,119150,Aditi Nair
+106,Arjun Mehta,Sales,Central,27-11-2022,125725,Meera Singh
+107,Kavita Joshi,Sales,South,29-03-2022,144654,Aditi Nair
+108,Vikram Desai,Sales,West,21-05-2024,95773,Aditi Nair
+109,Maya Iyer,Sales,West,11-05-2022,127435,Aditi Nair
+110,Karan Verma,Sales,West,09-02-2024,116886,Meera Singh
+111,Isha Nair,Sales,West,10-12-2022,126803,Aditi Nair
+112,Deepak Kulkarni,Sales,Central,16-03-2024,91551,Sunil Rao
+113,Ritu Banerjee,Sales,East,21-01-2023,71394,Meera Singh
+114,Sahil Khan,Sales,North,13-08-2024,129092,Sunil Rao
+115,Pooja Reddy,Marketing,West,04-10-2022,63890,Meera Singh
+116,Manish Gupta,Marketing,South,05-04-2023,101606,Aditi Nair
+117,Anita Das,Marketing,West,22-01-2022,140038,Sunil Rao
+118,Rahul Bhatt,Support,South,10-09-2022,147313,Meera Singh
+119,Sheetal More,Support,South,18-01-2024,70627,Raj Mehta
+120,Vivek Roy,Support,West,06-05-2024,68792,Aditi Nair
